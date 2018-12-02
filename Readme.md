@@ -9,12 +9,20 @@ as insurance companies.
 #### Languages/Libraries/Tools used:
 
 IBM Watson visual recognition API (Image recognition)
+
 Node.js(Backend Rendering)
+
 Twilio(Chatbot and Messaging service)
-AWS Lambda(Cloud)
+
+AWS Lambda, API Gateway(Cloud)
+
 DynamoDB(Databases)
+
 Markdown (Documentation)
+
 Git (Version Control)
+
+(SageMaker (Cloud ML) - Machine Learning - Linear regression, Logistic Regression (Currently for now, subjective to change.)
 
 
 #### Project Structure and how to run this project:
@@ -23,7 +31,7 @@ Git (Version Control)
 1. Intelligent Vehicle Damage Estimation.
 2. Intelligent Fault detection system.
 3. Chatbot that guides the user for the autoclaim proccess as well as used in detecting the fault when an accident occurs.
-4. Driver Score
+4. Driver Score for accountability
 
 #### Assumptions:
 
