@@ -33,6 +33,7 @@ To build a disruptive cloud based fintech business idea as a part of BCG digital
 - For running the ibm watson damage detection and fault detection module, download the repository, go to the server web app, run npm install and npm start in the directory where the index.html lies.
 
 - As per the workflow attached, 
+
 ![alt text](https://github.com/Lakshmiaddepalli/dvHacks_autoclaim.ai/blob/master/WorkFlow.png)
 
 #### Project features:
