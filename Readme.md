@@ -16,9 +16,9 @@ To build a disruptive cloud based fintech business idea as a part of BCG digital
 
 - Twilio (Chatbot and Messaging service)
 
-- AWS Lambda, API Gateway(Cloud)
+- AWS Lambda, API Gateway (Cloud)
 
-- DynamoDB(Databases)
+- DynamoDB (Databases)
 
 - Markdown (Documentation)
 
