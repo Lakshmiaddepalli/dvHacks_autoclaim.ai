@@ -1,0 +1,24 @@
+[
+  {
+    "Model_Type": "Honda",
+    "Front_Bumper_high": "2000$",
+    "Front_Bumper_low": "1000$",
+    "Front_Bumper_medium": "1500$",
+    "Rear_Bumper_high": "1500$",
+    "Rear_Bumper_low": "1000$",
+    "Rear_Bumper_medium": "2000$",
+    "WIndShield_low": "500$",
+    "Windshield_medium": "1000$"
+  },
+  {
+    "Model_Type": "Bmw",
+    "Front_Bumper_high": "4000$",
+    "Front_Bumper_low": "6000$",
+    "Front_Bumper_medium": "5000$",
+    "Rear_Bumper_high": "6000$",
+    "Rear_Bumper_low": "7000$",
+    "Rear_Bumper_medium": "9000$",
+    "WIndShield_low": "700$",
+    "Windshield_medium": "2000$"
+  }
+]
