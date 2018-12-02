@@ -72,15 +72,16 @@ To build a disruptive cloud based fintech business idea as a part of BCG digital
 2. Connecting to the the IBM Watson API endpoint and getting results within a time period and faced authentication issues.
 
 #### References:
-https://venturebeat.com/2017/02/04/how-ai-is-changing-the-way-we-assess-vehicle-repair/
-https://www.thezebra.com/insurance-news/3387/defining-fault-in-insurance-scenario/ 
-https://www.justia.com/injury/motor-vehicle-accidents/car-accidents/chain-reaction-multi-vehicle-accidents/
-https://www.insurancehotline.com/at-fault-rules/
-https://www.insurancehotline.com/fault-determination-in-a-parking-lot-accident/
-http://www.minkinsurance.com/Mink/media/Documents/FAULT-CHART.PDF
-https://www.wikihow.com/Determine-Who-Is-at-Fault-in-a-Car-Accident
-https://github.com/IBM/watson-vehicle-damage-analyzer
-https://medium.com/ibm-watson/visual-recognition-378dd49ee272
+
++ https://venturebeat.com/2017/02/04/how-ai-is-changing-the-way-we-assess-vehicle-repair/
++ https://www.thezebra.com/insurance-news/3387/defining-fault-in-insurance-scenario/ 
++ https://www.justia.com/injury/motor-vehicle-accidents/car-accidents/chain-reaction-multi-vehicle-accidents/
++ https://www.insurancehotline.com/at-fault-rules/
++ https://www.insurancehotline.com/fault-determination-in-a-parking-lot-accident/
++ http://www.minkinsurance.com/Mink/media/Documents/FAULT-CHART.PDF
++ https://www.wikihow.com/Determine-Who-Is-at-Fault-in-a-Car-Accident
++ https://github.com/IBM/watson-vehicle-damage-analyzer
++ https://medium.com/ibm-watson/visual-recognition-378dd49ee272
 
 
 
