@@ -47,7 +47,7 @@ To build a disruptive cloud based fintech business idea as a part of BCG digital
  
  This is the differentiator, which many companies in this space havent stepped in.
  
- ## Fault(A,B) = Features_from_Driver_history + chatbot_judgement_score + CarModel + Imapact_area + Severity.
+ #### Fault(A,B) = Features_from_Driver_history + chatbot_judgement_score + CarModel + Imapact_area + Severity.
  
  Impact Areas (Front/ Rear) are used by insurance companies and policies for fault prediction.
  
@@ -67,7 +67,20 @@ To build a disruptive cloud based fintech business idea as a part of BCG digital
 
 #### Observations and Issues faced:
 
+1. Due to the limited account (free account on IBM Watson) and limited computation power in free account, it took time.
+2. Connecting to the the IBM Watson API endpoint and getting results within a time period and faced authentication issues.
+
 #### References:
+https://venturebeat.com/2017/02/04/how-ai-is-changing-the-way-we-assess-vehicle-repair/
+https://www.thezebra.com/insurance-news/3387/defining-fault-in-insurance-scenario/ 
+https://www.justia.com/injury/motor-vehicle-accidents/car-accidents/chain-reaction-multi-vehicle-accidents/
+https://www.insurancehotline.com/at-fault-rules/
+https://www.insurancehotline.com/fault-determination-in-a-parking-lot-accident/
+http://www.minkinsurance.com/Mink/media/Documents/FAULT-CHART.PDF
+https://www.wikihow.com/Determine-Who-Is-at-Fault-in-a-Car-Accident
+https://github.com/IBM/watson-vehicle-damage-analyzer
+https://medium.com/ibm-watson/visual-recognition-378dd49ee272
+
 
 
 #### Team members:
