@@ -2,9 +2,10 @@
 
 ### Objective:
 
-To build a disruptive cloud based fintech business idea as a part of BCG digital ventures hackathon : www.dvhacks.com in the insurance space that uses Artificial Intelligence to augment and automate the current autoclaims process that looks to transform the process and exxperience for both customers as well as insurance companies.
+To build a disruptive cloud based fintech business idea as a part of BCG digital ventures hackathon : www.dvhacks.com in the insurance space that uses Artificial Intelligence to augment and automate the current autoclaims process that looks to transform the process and experience for both customers as well as insurance companies.
 
 -> Reduce time and operation costs for both consumers involved in insurance claim and companies who seek to lessen their costs.
+
 -> Provide a scoring like system for drivers similar to the concept of credit score so as to keep both roads safe for people as well as make it easier for insurance companies to identify customers for retention.
 
 #### Languages/Libraries/Tools used:
@@ -30,13 +31,15 @@ To build a disruptive cloud based fintech business idea as a part of BCG digital
 
 - As, this is a cloud based solution, you would need to setup an twilio account for getting the workflow which we used for building our chatbout service, Stephie, who guides us through.
 - For running the ibm watson damage detection and fault detection module, download the repository, go to the server web app, run npm install and npm start in the directory where the index.html lies.
-- As per the workflow attached above, 
+
+- As per the workflow attached, 
+![alt text](https://github.com/Lakshmiaddepalli/dvHacks_autoclaim.ai/blob/master/WorkFlow.png)
 
 #### Project features:
 
 1. Intelligent Vehicle Damage Estimation.
     
-    ## Vehicle Damage Estimation = a*CarModel+ (b1*Area_of_damage1*severity + b2*Area_of_damage2*severity ... bn*Area_of_damageN*severity)
+    #### Vehicle Damage Estimation = a*CarModel+ (b1 * Area_of_damage1 * severity + b2 * Area_of_damage2 * severity ... bn  Area_of_damageN * severity)
     
     #### The image classification model built here gives us the areas of damages (like windshield, front bumper etc) along with severity(High, medium , low).
     
