@@ -87,7 +87,7 @@ To build a disruptive cloud based fintech business idea as a part of BCG digital
 
 #### Team members:
 
-1. Venkat Chandra - venkat.r.chandra@gmail.com 
-2. Sree Lakshmi Addepalli - sla410@nyu.edu
-3. Suyash Chopra - sc6185@nyu.edu
-4. Sree Gowri Addepalli - sga297@nyu.edu
+1. Venkat Chandra
+2. Sree Lakshmi Addepalli
+3. Suyash Chopra
+4. Sree Gowri Addepalli
